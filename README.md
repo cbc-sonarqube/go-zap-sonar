@@ -1,5 +1,6 @@
 # :zap: zap [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
 
+
 Blazing fast, structured, leveled logging in Go.
 
 ## Installation
